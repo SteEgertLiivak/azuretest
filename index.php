@@ -1,3 +1,4 @@
-<?php
-echo:"Tere maailm"
-?>
+<html>
+  <H1>See leht on testimiseks</H1>
+</html>
+
